@@ -1,5 +1,4 @@
-<?php wp_head();
-
+<?php
     get_header(); ?>
 
 <div class="page-banner">
@@ -106,7 +105,5 @@
       </div>
     </div>
 
-<?php get_footer();
-
-    wp_footer();
-?>
+<?php
+    get_footer();
