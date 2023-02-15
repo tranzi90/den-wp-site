@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "wp-scripts ../app/public/wp-content/themes/fictional-university/build",
+    "build": "wp-scripts build",
     "start": "wp-scripts start",
     "dev": "wp-scripts start",
     "devFast": "wp-scripts start",
